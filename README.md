@@ -11,3 +11,5 @@
 <h2>🐾Terceiro Passo:</h2>
 <p>Apenas subistitua os nomes das categorias da planilha do código pela sua.Ex: ID Loja -> Nome da Loja.<br> E por fim troque o email que está la para oque desejar!</p>
 
+
+
